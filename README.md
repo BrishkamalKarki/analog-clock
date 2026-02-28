@@ -1,6 +1,6 @@
 # <center>🕙 Analog Clock </center>
 -----
-<b> This is a simple analog clock made from PyQt6 in python which can precisely show the times in hour, minute and second along with today's nepali day.
+This is a simple analog clock made from PyQt6 in python which can precisely show the times in hour, minute and second along with today's nepali day.
 
 ![Image of the Clock](./images/clock_img.png)
 
